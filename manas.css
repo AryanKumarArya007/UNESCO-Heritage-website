@@ -1,0 +1,246 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:white;
+}
+header {
+    background-color:rgb(22, 156, 209);
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    height : 80px;
+    display: flex;
+    justify-content:space-around;  
+}
+nav {
+    background-color: #888585;
+    text-align: center;
+    padding: 10px 0;
+    height: 40px;
+    font-size: 20px;
+    color: #212020;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+nav a:hover {
+    background-color: #666;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  .search-input {
+    border: none;
+    outline: none;
+    height:15px;
+  }
+  .search-btn {
+    background-color: #f2f2f2;
+    border: none;
+    cursor: pointer;
+  }
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+    margin-left: 4px;
+ 
+}
+.search-input{
+    height: 40px;
+    width:650px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.search-icon{
+    margin-top: 9px;
+    height: 30px;
+}
+.search-select{
+    height: 44px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.site {
+    background-color: #888585;
+    width: 700px;
+    margin: 10px 0;
+    height:80px;
+    padding: 10px;
+    border-width: 0px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #1c1717;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+}
+.site img {
+    height:80px;
+    width: 120px;
+    border-radius: 5px;
+    object-fit: cover;
+}
+.site h2 {
+    margin-top: 10px;
+    color:rgb(13, 13, 13);
+    margin-top: 28px;
+    margin-left: 5px;
+}
+.site p {
+    color: #666;
+}
+.site div:hover{
+    background-color: crimson;
+}
+
+#map {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    margin-top: 40px;
+  }
+
+#indmap{
+    width:1200px;
+}
+
+.site a{
+    text-decoration: none;
+}
+
+#categdiv{
+    width: 716px;
+    height:50px;
+    text-align: center;
+    border: 2px solid rgb(182, 167, 167);
+    border-radius: 20px;
+    background-color: #948b8b;
+
+}
+
+#categ{
+    margin-top:10px;
+}
+
+
+.footer-container{
+    margin-bottom: 0px;
+    height:170px;
+    display: flex;
+    font-size: 15px;
+    justify-content: space-around;
+    background-color: #335c67;
+    color: white;
+
+}
+    
+#foot1{
+    display: inline;
+}
+#foot2{
+    display: inline;
+}
+#foot2{
+    display: inline;
+}
+#foot4{
+    display: inline;
+}
+
+.headerclass {
+    position: fixed;
+    top: 0;
+    width: 100%
+  }
+
+.navclass {
+    position: fixed;
+    top: 100px;
+    width: 100%
+  }
+
+#indiaflag{
+    margin-top: 0px;
+}
+
+
+
+
+.foot a{
+    text-decoration: #1c1717;
+    color:white;
+
+}
+.foot h3{
+    margin-left: 23px;
+
+}
+.intro{
+    margin-top: 49px;
+    height: 320px;
+    width: 100%;
+    display: flex;
+    background-color: white;
+}
+.main1{
+    width: 100%;
+
+}
+
+#heading{
+    width:50%;
+    padding: 20px;
+
+}
+#heading p{
+    font-size: 22px;
+    font-family:'Times New Roman', Times, serif;
+
+
+}
+
+
+#map{
+    width:50%;
+   
+}
+#map img{
+    height:260px;
+    width:400px;
+    margin-left: 330px;
+
+}
+#written {
+    padding:20px;
+
+}
+#written p{
+    font-size: 20px;
+
+}
+#pics{
+    height:300px;
+    width:100%;
+    background-color:white;
+    display:flex;
+    justify-content: space-between;
+   
+}
+
+#pics img{
+    height:300px;
+    width:24%;
+    border-width:5px ;
+    border-color: #1c1717;
+    border-style:solid;
+}
