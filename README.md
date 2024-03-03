@@ -1,16 +1,19 @@
 # UNESCO-Heritage-website
 <h3>This is a web project on UNESCO Indian Heritage sites.</h3><br>
+<hr>
 <h3><b>Project Structure</b></h3>
 <p>The main source page is index.html with styling given in UNESCO1.css</p>
 <p>The html pages for various heritage sites have been attached subsequently</p><br>
-
+<hr>
 <h3><b>Technologies Used</b></h3>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
 </ul>
+<hr>
 <h3><b>Running the Project</b></h3>
 <p>You can open the website with the following Link - https://unesco-heritage-website.vercel.app/</p>
+<hr>
 <h3><b>Screenshots</b></h3>
 <h4>Home Page</h4>
 <img src="homepage1.png">
