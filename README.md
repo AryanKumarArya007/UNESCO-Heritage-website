@@ -17,6 +17,7 @@
 <img src="homepage2.png">
 <h4>Heritage Site Page</h4>
 <img src="heritagesitepage.png">
+<p>(For better experience open the website with 100% window zoom level)</p>
 
 
 
